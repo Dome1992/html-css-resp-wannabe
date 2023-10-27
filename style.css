@@ -129,7 +129,7 @@ img {
  ************************************************/
 
  /* desktop version */
- @media screen and (max-width: 768px) {
+ @media all and (max-width: 768px) {
      
     .conteiner {
         width:100%;
